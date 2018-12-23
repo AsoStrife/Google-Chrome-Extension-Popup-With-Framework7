@@ -1,0 +1,17 @@
+html{
+    overflow: hidden;
+}
+
+body{
+    height:600px;
+}
+
+/**
+ * Add this div class after app.root (usually is <div id="app">)
+ * This sub container allow your app to be 
+ * visualize correctly in the popup of google chrome
+ */
+.app-container{
+    width: 800px; 
+    height: 600px;
+}
