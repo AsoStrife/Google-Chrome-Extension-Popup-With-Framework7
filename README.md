@@ -59,7 +59,7 @@ As you can see, is very simple. The first thing to do is to add `chrome-extensio
 
 In this example you can see the [UnicApp Universal APP](https://github.com/UnicApp/universal-app) running as a Google Chrome Extension. 
 
-![](http://i68.tinypic.com/34pars7.png)
+![](http://i65.tinypic.com/2vd5o4g.png)
 
 
 
