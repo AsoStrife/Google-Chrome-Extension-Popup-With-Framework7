@@ -54,3 +54,15 @@ Check the `index.html` file:
 ```
 
 As you can see, is very simple. The first thing to do is to add `chrome-extension.css` in your `index.html` file, after the **Framework7** files. After that you have to add`<div class="capp-container">` container after your `app.root` (usually is `<div id="app">`). This sub container allow your app to be visualize correctly in the popup of Google Chrome.
+
+## Example 
+
+In this example you can see the [UnicApp Universal APP](https://github.com/UnicApp/universal-app) running as a Google Chrome Extension. 
+
+![](http://i68.tinypic.com/34pars7.png)
+
+
+
+### Compatibility
+
+*This repository is running with Framework7 v. 3.5.2*
